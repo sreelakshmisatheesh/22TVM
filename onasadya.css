@@ -19,6 +19,17 @@
 
 }
 
+.leftportion{
+    display: inline-block;
+    width: 45%;
+ 
+}
+.rightportion{
+    display: inline-block;
+    width: 50%;
+    vertical-align: top;
+}
+
 
 
    
